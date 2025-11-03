@@ -1,4 +1,4 @@
-# Explainable Credit Scorecard System
+# Blackbox - Explainable Credit Scorecard System
 
 BlackBox is an advanced credit risk assessment platform that combines structured financial data, unstructured news data, and macroeconomic indicators to provide comprehensive and explainable credit scores for companies.
 
