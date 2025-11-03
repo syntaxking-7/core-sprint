@@ -1,6 +1,6 @@
-# BlackBox Cred - Explainable Credit Scorecard System
+# Explainable Credit Scorecard System
 
-BlackBox Cred is an advanced credit risk assessment platform that combines structured financial data, unstructured news data, and macroeconomic indicators to provide comprehensive and explainable credit scores for companies.
+BlackBox is an advanced credit risk assessment platform that combines structured financial data, unstructured news data, and macroeconomic indicators to provide comprehensive and explainable credit scores for companies.
 
 To use the app press: https://black-box-cred.vercel.app/ 
 
